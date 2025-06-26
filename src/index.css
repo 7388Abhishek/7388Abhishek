@@ -1,0 +1,47 @@
+.app {
+  text-align: center;
+  padding: 2rem;
+  font-family: sans-serif;
+}
+
+.palette {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 1.5rem;
+}
+
+.color-box {
+  width: 120px;
+  height: 120px;
+  margin: 10px;
+  color: #fff;
+  font-weight: bold;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: transform 0.2s;
+  box-shadow: 0 0 5px rgba(0,0,0,0.15);
+}
+
+.color-box:hover {
+  transform: scale(1.05);
+}
+
+.color-code {
+  background-color: rgba(0,0,0,0.4);
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.generate-button {
+  padding: 0.7rem 1.5rem;
+  font-size: 1rem;
+  cursor: pointer;
+  background-color: #333;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
