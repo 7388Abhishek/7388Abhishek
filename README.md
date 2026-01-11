@@ -20,15 +20,11 @@ I am a **Full Stack Developer** with experience in building responsive, scalable
 - Python  
 - Django  
 
-### 🗄️ Database
-- MongoDB  
-- SQLite / MySQL  
 
 ### 🧰 Tools
 - Git & GitHub  
 - VS Code  
-- Postman  
-- npm  
+- npm 
 
 ---
 
@@ -42,7 +38,7 @@ I am a **Full Stack Developer** with experience in building responsive, scalable
 ### 🧮 Calculator App
 - Developed using React.js  
 - User-friendly design  
-- Real-time calculations  
+- Real-time calculations 
 
 ### 🌐 Full Stack Web Apps
 - REST API development using Node.js & Django  
@@ -50,17 +46,11 @@ I am a **Full Stack Developer** with experience in building responsive, scalable
 
 ---
 
-## 🌱 Currently Learning
-- Advanced React.js  
-- Django REST Framework  
-- Backend Performance Optimization  
-
 ---
 
 ## 🤝 Connect With Me
-- 💼 LinkedIn: *Add your LinkedIn URL*  
-- 🌐 Portfolio: *Add your Portfolio URL*  
-- 📧 Email: *Add your Email*  
+- 🌐 Portfolio: https://github.com/7388Abhishek/Portfolio.git
+- 📧 Email: itspandey786@gmail.com 
 
 ---
 
