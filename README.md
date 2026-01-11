@@ -6,26 +6,6 @@ I am a **Full Stack Developer** with experience in building responsive, scalable
 
 ---
 
----
-# Who am I?
-class Myself:
-    def __init__(self,name,age,work,hobbies,occupation):
-        self.name=name
-        self.age=age
-        self.work=work
-        self.hobbies=hobbies
-        self.occupation=occupation
-    def view_details(self):
-        print(f'name :{self.name}\n age :{self.age}\n work :{self.work}\n hobbies :{self.hobbies} \n occupation :{self.occupation}')
-        
-A1 = Myself('Abhishek','20','37','coading','watching movies,playing cricket etc',"Frontend Developer,Backend Developer')
-A1.view_details()
----
-
-
-
----
-
 ## 🛠️ Skills & Technologies
 
 ### 🌐 Frontend
